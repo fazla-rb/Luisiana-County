@@ -1,0 +1,149 @@
+Source,Target,Weight
+C2,Acadia,500
+C4,Acadia,750
+C4,Allen,500
+C2,Allen,750
+C4,Ascension,750
+C2,Ascension,1050
+C1,Ascension,500
+C4,Assumption,450
+C1,Assumption,750
+C2,Assumption,450
+C4,Avoyelles,500
+C2,Avoyelles,1050
+C4,Beauregard,1050
+C2,Beauregard,500
+C4,Bienville,1050
+C4,Bossier,1050
+C4,Caddo,750
+C4,Calcasieu,750
+C3,Calcasieu,1500
+C2,Calcasieu,750
+C4,Caldwell,450
+C1,Cameron,1500
+C2,Cameron,500
+C3,Cameron,600
+C4,Cameron,1500
+C4,Catahoula,750
+C4,Claiborne,1100
+C4,Concordia,500
+C4,De Soto,1100
+C2,East Baton Rouge,1050
+C3,East Baton Rouge,1100
+C4,East Baton Rouge,500
+C4,East Carroll,1050
+C4,East Feliciana,1500
+C3,East Feliciana,500
+C4,Evangeline,450
+C3,Evangeline,2000
+C4,Franklin,1050
+C4,Grant,750
+C1,Iberia,480
+C2,Iberia,340
+C3,Iberia,500
+C4,Iberia,340
+C1,Iberville,2000
+C2,Iberville,500
+C4,Iberville,1100
+C4,Jackson,1050
+C1,Jefferson,1050
+C2,Jefferson,340
+C3,Jefferson,500
+C4,Jefferson,2000
+C4,Jefferson Davis,2000
+C2,Jefferson Davis,750
+C2,Lafayette,675
+C3,Lafayette,500
+C4,Lafayette,2000
+C1,Lafourche,1050
+C2,Lafourche,675
+C3,Lafourche,2000
+C4,Lafourche,500
+C4,LaSalle,450
+C4,Lincoln,1050
+C1,Livingston,450
+C2,Livingston,500
+C3,Livingston,450
+C4,Livingston,1500
+C4,Madison,450
+C4,Morehouse,750
+C4,Natchitoches,450
+C1,Orleans,1500
+C2,Orleans,675
+C3,Orleans,500
+C4,Orleans,2000
+C4,Ouachita,675
+C1,Plaquemines,1050
+C2,Plaquemines,675
+C3,Plaquemines,500
+C4,Plaquemines,600
+C2,Pointe Coupee,2000
+C3,Pointe Coupee,500
+C4,Pointe Coupee,350
+C4,Rapides,1500
+C1,Rapides,600
+C4,Red River,750
+C4,Richland,2000
+C4,Sabine,1500
+C1,St. Bernard,675
+C2,St. Bernard,500
+C3,St. Bernard,1700
+C4,St. Bernard,1500
+C1,St. Charles,675
+C2,St. Charles,500
+C3,St. Charles,1700
+C4,St. Charles,300
+C1,St. Helena,600
+C3,St. Helena,500
+C4,St. Helena,600
+C1,St. James,300
+C2,St. James,750
+C3,St. James,1500
+C4,St. James,350
+C1,St. John the Baptist,750
+C2,St. John the Baptist,1700
+C3,St. John the Baptist,500
+C4,St. John the Baptist,300
+C1,St. Landry,1500
+C3,St. Landry,2500
+C4,St. Landry,750
+C1,St. Martin,2500
+C2,St. Martin,300
+C3,St. Martin,500
+C4,St. Martin,450
+C1,St. Mary,1050
+C2,St. Mary,350
+C3,St. Mary,500
+C4,St. Mary,350
+C1,St. Tammany,300
+C2,St. Tammany,500
+C3,St. Tammany,350
+C4,St. Tammany,1500
+C1,Tangipahoa,350
+C2,Tangipahoa,1050
+C3,Tangipahoa,350
+C4,Tangipahoa,1050
+C4,Tensas,600
+C1,Terrebonne,750
+C2,Terrebonne,600
+C3,Terrebonne,300
+C4,Terrebonne,1050
+C4,Union,600
+C1,Vermilion,300
+C2,Vermilion,500
+C3,Vermilion,350
+C4,Vermilion,1500
+C4,Vernon,600
+C3,Vernon,1050
+C1,Washington,600
+C2,Washington,600
+C3,Washington,500
+C4,Washington,600
+C4,Webster,600
+C4,West Baton Rouge,1050
+C3,West Baton Rouge,1500
+C1,West Baton Rouge,1500
+C4,West Carroll,750
+C4,West Feliciana,1500
+C2,West Feliciana,1050
+C4,Winn,1050
