@@ -1,0 +1,46 @@
+Source,Target,Weight
+C1,Acadia,500
+C2,Acadia,750
+C3,Acadia,750
+C1,Allen,500
+C2,Ascension,750
+C3,Assumption,450
+C1,Avoyelles,500
+C1,Beauregard,1050
+C2,Beauregard,1050
+C2,Bienville,1050
+C3,Bienville,1050
+C3,Bossier,1050
+C1,Caddo,750
+C1,Calcasieu,750
+C2,Calcasieu,1500
+C3,Calcasieu,750
+C3,Caldwell,450
+C4,Caldwell,450
+C2,Cameron,600
+C4,Cameron,600
+C1,Catahoula,750
+C2,Catahoula,750
+C1,Claiborne,1100
+C3,Claiborne,1100
+C2,Concordia,500
+C4,Concordia,500
+C3,De Soto,1100
+C4,De Soto,1100
+C1,East Baton Rouge,1050
+C1,East Carroll,1050
+C3,East Carroll,1050
+C1,East Feliciana,1500
+C3,East Feliciana,1500
+C2,Grant,750
+C3,Grant,750
+C1,Iberia,750
+C2,Iberia,750
+C3,Iberia,750
+C2,Iberville,1100
+C4,Iberville,1100
+C3,Jackson,500
+C4,Jackson,500
+C2,Jefferson,1100
+C3,Jefferson,1100
+C4,Jefferson,1100
